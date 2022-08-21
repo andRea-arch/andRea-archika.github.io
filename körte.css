@@ -1,0 +1,12 @@
+button{
+    width: 150px;
+    background-color: #00ccee;
+    margin-left: 15px;
+    font-size: 120%;
+}
+#demo{
+    color: antiquewhite;
+    background-color: #7f7f7f;
+    padding: 10px;
+    font-size: 120%;
+}
